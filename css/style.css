@@ -1,0 +1,8 @@
+body {
+    background-color: whitesmoke;
+}
+
+.messages,
+.result {
+    margin-top: 15px;
+}
